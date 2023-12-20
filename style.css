@@ -1,0 +1,24 @@
+/* Reset default browser styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Apply styles to the body */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+/* Add styles for headings */
+h1 {
+  color: #007bff;
+}
+
+/* Define styles for links */
+a {
+  text-decoration: none;
+  color: #007bff;
+}
